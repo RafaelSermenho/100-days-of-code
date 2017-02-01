@@ -12,9 +12,9 @@
 
 ### Day 2: January 31, 2017 
 
-**Today's Progress**: Refactor some code, remove eventbus and begin implementation of MVP pattern.
+**Today's Progress**: Refactor some code, remove eventbus and begin implementation of MVP pattern. (Code is on branch new_architecture)
 
-**Thoughts:** Today was a good dev night! I was able to change some code that was bothering me and finally could see some MVP in real project.
+**Thoughts:** Today was a good dev night! I changed some code that was bothering me and finally I saw MVP in a real project.
 
 **What's next:** Continue the MVP pattern, include data binding, finish settings screen.
 
