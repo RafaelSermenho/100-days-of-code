@@ -19,3 +19,14 @@
 **What's next:** Continue the MVP pattern, include data binding, finish settings screen.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 3: February 01, 2017 
+
+**Today's Progress**: Refactor some code, fixed some lint warnings and findbugs issues. Also started working on settings screen. (Code is on branch new_architecture)
+
+**Thoughts:** Today was not very productive and I spent almost one hour trying to figure out how to start and activity through sharedPreferences. The refactor, lint warnings and findbugs were ok.
+
+**What's next:** finish settings screen and shared preference code and study JobScheduler.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
