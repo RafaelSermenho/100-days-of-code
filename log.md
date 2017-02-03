@@ -30,3 +30,12 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 4: February 02, 2017 
+
+**Today's Progress**: Start implementation of timePreference.
+
+**Thoughts:** The night was not productive. I've just worked on timePreference.
+
+**What's next:** finish settings screen and shared preference code and study JobScheduler.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
