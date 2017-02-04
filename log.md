@@ -39,3 +39,13 @@
 **What's next:** finish settings screen and shared preference code and study JobScheduler.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 5: February 04, 2017 
+
+**Today's Progress**: Fixed a bug that was causing the application not to save a file when the folder already exists (side-effect) and worked un timepicker customization.
+
+**Thoughts:** Just one hour coding, cause my mother is here. 
+
+**What's next:** finish settings screen and shared preference code and study JobScheduler.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
