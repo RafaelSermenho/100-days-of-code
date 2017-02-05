@@ -49,3 +49,13 @@
 **What's next:** finish settings screen and shared preference code and study JobScheduler.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 6: February 05, 2017 
+
+**Today's Progress**: Started JobScheduler implementation
+
+**Thoughts:** Never worked with this class before. I'm still trying to figure out how it will work. Maybe I'll create a poc before.
+
+**What's next:** Evaluate the necessity of a POC to study JobScheduler better.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
