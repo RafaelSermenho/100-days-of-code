@@ -62,9 +62,9 @@
 
 ### Day 7: February 06, 2017 
 
-**Today's Progress**: Implemented an example of JobScheduler
+**Today's Progress**: Implemented a PoC of JobScheduler in a new repository.
 
-**Thoughts:** This example is very simple, but it was very useful to clarify my ideas from my other app.
+**Thoughts:** This example is very simple, but it was very useful to clarify my ideas for my other app (Nasa - Picture Of The Day).
 
 **What's next:** Go back to my other project and implement a nice scheduler.
 
