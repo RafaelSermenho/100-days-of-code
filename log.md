@@ -59,3 +59,13 @@
 **What's next:** Evaluate the necessity of a POC to study JobScheduler better.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 7: February 06, 2017 
+
+**Today's Progress**: Implemented an example of JobScheduler
+
+**Thoughts:** This example is very simple, but it was very useful to clarify my ideas from my other app.
+
+**What's next:** Go back to my other project and implement a nice scheduler.
+
+**Link to work:** [JobScheduler Demo](https://github.com/RafaelSermenho/JobSchedulerDemo)
