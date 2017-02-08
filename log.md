@@ -69,3 +69,13 @@
 **What's next:** Go back to my other project and implement a nice scheduler.
 
 **Link to work:** [JobScheduler Demo](https://github.com/RafaelSermenho/JobSchedulerDemo)
+
+### Day 8: February 06, 2017 
+
+**Today's Progress**: Implemented JobScheduler
+
+**Thoughts:** JobScheduler is a gift from heaven! *-*
+
+**What's next:** Read params from sharedPreference to update jobScheduler, and fix some flow issues.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
