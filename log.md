@@ -70,12 +70,22 @@
 
 **Link to work:** [JobScheduler Demo](https://github.com/RafaelSermenho/JobSchedulerDemo)
 
-### Day 8: February 06, 2017 
+### Day 8: February 07, 2017 
 
 **Today's Progress**: Implemented JobScheduler
 
 **Thoughts:** JobScheduler is a gift from heaven! *-*
 
 **What's next:** Read params from sharedPreference to update jobScheduler, and fix some flow issues.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 9: February 08, 2017 
+
+**Today's Progress**: Finished JobScheduler implementation and replaced TimePreference for a ListPreference
+
+**Thoughts:** An UX analysis made me decide for the ListPreference. The downloadservice is now running according to what is setted on settings screen
+
+**What's next:** Identify a photo already downloaded and show (avoid unnecessary call to service), include an option to save as wallpaper
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
