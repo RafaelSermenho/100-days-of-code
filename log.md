@@ -89,3 +89,13 @@
 **What's next:** Identify a photo already downloaded and show (avoid unnecessary call to service), include an option to save as wallpaper
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 10: February 09, 2017 
+
+**Today's Progress**: Implemented notification and code to set image as wallpaper
+
+**Thoughts:** Today I wasn't in the mood for developing, but after 10 minutes I started to feel good.
+
+**What's next:** Implement a database and review flow. 
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
