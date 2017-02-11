@@ -99,3 +99,13 @@
 **What's next:** Implement a database and review flow. 
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 11: February 10, 2017 
+
+**Today's Progress**: Fixed 1 bug on broadcastReceiver...found 99 more
+
+**Thoughts:** Stupid receiver!!! I wanna kill you!!!
+
+**What's next:** Fix this f#$%*king problem!
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
