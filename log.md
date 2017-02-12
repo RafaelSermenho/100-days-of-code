@@ -109,3 +109,13 @@
 **What's next:** Fix this f#$%*king problem!
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 12: February 11, 2017 
+
+**Today's Progress**: I adjusted the flow, created the DB, renamed some fields, tried to work with DI and drew the basic flow of the application.
+
+**Thoughts:** A good night of sleep made me think about the app's flow. After some drawing I solved my problem. I tried to implement the DI but I'm not sure how to do it.
+
+**What's next:** Study DI
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
