@@ -119,3 +119,13 @@
 **What's next:** Study DI
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 13: February 12, 2017 
+
+**Today's Progress**: Fixed some bugs, installed stetho to inspect the database and adjusted some flows.
+
+**Thoughts:** Yesterday the API was returning a wrong data information that lead me to 14 wrong registers in database and today's photo was not being download.
+
+**What's next:** Implement permissions on marshmallow.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
