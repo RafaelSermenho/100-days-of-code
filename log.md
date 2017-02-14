@@ -129,3 +129,13 @@
 **What's next:** Implement permissions on marshmallow.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 14: February 13, 2017 
+
+**Today's Progress**: Adjust the code to bypass a bug in NASA APOD Api. They're returning the wrong date if I don't pass the current date as parameter
+
+**Thoughts:** Every morning I expect a new photo on my phone, but there's always something happening. Now was a bug in NASA APOD Api...I I hope it's the last one.
+
+**What's next:** Implement permissions on marshmallow.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
