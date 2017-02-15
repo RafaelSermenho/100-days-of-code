@@ -144,7 +144,7 @@
 
 **Today's Progress**: Upgraded sdk version and started implementing runtime permissions
 
-**Thoughts:** Not a prouctive night. I'll have to do better tomorrow.
+**Thoughts:** Not a productive night. I'll have to do better tomorrow.
 
 **What's next:** Finish runtime permissions
 
