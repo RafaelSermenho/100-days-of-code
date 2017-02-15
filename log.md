@@ -139,3 +139,13 @@
 **What's next:** Implement permissions on marshmallow.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 15: February 14, 2017 
+
+**Today's Progress**: Upgraded sdk version and started implementing runtime permissions
+
+**Thoughts:** Not a prouctive night. I'll have to do better tomorrow.
+
+**What's next:** Finish runtime permissions
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
