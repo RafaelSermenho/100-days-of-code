@@ -149,3 +149,13 @@
 **What's next:** Finish runtime permissions
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 16: February 15, 2017 
+
+**Today's Progress**: Just updated job service parameters
+
+**Thoughts:** I'm tired today...
+
+**What's next:** Finish runtime permissions
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
