@@ -159,3 +159,14 @@
 **What's next:** Finish runtime permissions
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 17: February 17, 2017 
+
+**Today's Progress**: Testing job service, hiding some api keys and working on permissions
+
+**Thoughts:** After missing one day, I'm back. Thinking about including sth to mock data from nasa
+
+**What's next:** Finish application!!!
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
