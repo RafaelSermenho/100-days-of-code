@@ -170,3 +170,13 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 18: February 18, 2017 
+
+**Today's Progress**: Finish permission implementation; adjust proguard rules and some gradle properties.
+
+**Thoughts:** I found a bug that was happening due an invisible char or sth like that. One code line was not being called, so I deleted it and wrote it again. I also had some problems with proguard (to setup and the build time, so I reduced the optimizationpasses to 3)
+
+**What's next:** Improve the performance
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
