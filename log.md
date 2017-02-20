@@ -180,3 +180,13 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 19: February 19, 2017 
+
+**Today's Progress**: Fixed a bug in the flow that was causing app to save photo on database, but not  save file to storage.
+
+**Thoughts:** I was chasing this bug for days, now I'll have to wait for the next photo from NASA.
+
+**What's next:** Improve the performance
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
