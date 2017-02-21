@@ -190,3 +190,13 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 20: February 20, 2017 
+
+**Today's Progress**: JUst playing around with broadcast receiver. 
+
+**Thoughts:** I should try dagger2 to inject dependencies and read more about MVP.
+
+**What's next:** Improve the performance
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
