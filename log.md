@@ -200,3 +200,12 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 21: February 21, 2017 
+
+**Today's Progress**: Refactoring the model package. Removing some code from presenter and including it in model
+
+**Thoughts:** My mistake was doing to much work on presenter. I should've done it on model. But now I'm on my way to fix it.
+
+**What's next:** Finish new architecture and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
