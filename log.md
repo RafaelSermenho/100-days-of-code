@@ -209,3 +209,13 @@
 **What's next:** Finish new architecture and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 22: February 22, 2017 
+
+**Today's Progress**: Still refactoring the model package. Using glide only to download image so far.
+
+**Thoughts:** I really should start my programming session earlier. There are so many things to do...
+
+**What's next:** Finish new architecture and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
