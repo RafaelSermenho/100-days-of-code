@@ -219,3 +219,13 @@
 **What's next:** Finish new architecture and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 23: February 23, 2017 
+
+**Today's Progress**: Started a great change in code.
+
+**Thoughts:** I realized that I was creating a monster and using some over architecture. I refactored the project and let JobService handle some methods that were previously on presenter.
+
+**What's next:** Finish new architecture and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
