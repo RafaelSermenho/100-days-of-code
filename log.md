@@ -229,3 +229,13 @@
 **What's next:** Finish new architecture and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 24: February 24, 2017 
+
+**Today's Progress**: Fixed a crash.
+
+**Thoughts:** After 5 hours in an airport, I'm here to fix some bugs. Could only solve one before going to bed.
+
+**What's next:** Finish new architecture and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
