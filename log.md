@@ -239,3 +239,13 @@
 **What's next:** Finish new architecture and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 25: February 25, 2017 
+
+**Today's Progress**: Implemented a new method using glide to show picture
+
+**Thoughts:** Last night I spent one hour to fix only one bug, but it was a nice effort. Today the app is more stable.
+
+**What's next:** Finish new architecture and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
