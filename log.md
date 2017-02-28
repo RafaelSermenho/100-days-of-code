@@ -259,3 +259,13 @@
 **What's next:** Finish new architecture and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 27: February 27, 2017 
+
+**Today's Progress**: Update wallpaper method using the download callback and removing some deprecated methods
+
+**Thoughts:** Everything I did yesterday failed today and the app was crashing.
+
+**What's next:** Finish new architecture and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
