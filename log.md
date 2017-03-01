@@ -269,3 +269,13 @@
 **What's next:** Finish new architecture and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 28: February 28, 2017 
+
+**Today's Progress**: Started layout updates.
+
+**Thoughts:** The app worked like magic this morning. My girlfriend is here with me, so I showed her some colors to improve the layout. Beta app is available.
+
+**What's next:** Finish new architecture and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
