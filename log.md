@@ -276,6 +276,16 @@
 
 **Thoughts:** The app worked like magic this morning. My girlfriend is here with me, so I showed her some colors to improve the layout. Beta app is available.
 
-**What's next:** Finish new architecture and improve performance.
+**What's next:** Finish layout and improve performance.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 29: March 01, 2017 
+
+**Today's Progress**: Finished creating style and started implementation on exception flows
+
+**Thoughts:** The app still working. The layout is defined and the app has a beta version published.
+
+**What's next:** Finish exception flow and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
