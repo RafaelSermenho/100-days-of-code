@@ -289,3 +289,13 @@
 **What's next:** Finish exception flow and improve performance.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 30: March 02, 2017 
+
+**Today's Progress**: Fixed some lint issues and included code to show last downloaded photo when there's no new photo from NASA.
+
+**Thoughts:** Way to go! Thinking about some deployment tools.
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
