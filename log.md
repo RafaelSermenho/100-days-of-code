@@ -299,3 +299,13 @@
 **What's next:** Create an image grid.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 31: March 03, 2017 
+
+**Today's Progress**: Include code to show a message when there's no photo to be show.
+
+**Thoughts:** Not feeling ok today. I have a fever so I completed only few minutes today.
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
