@@ -309,3 +309,13 @@
 **What's next:** Create an image grid.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 32: March 04, 2017 
+
+**Today's Progress**: Updating name and removing unused code.
+
+**Thoughts:** Not feeling ok today. I have a fever so I completed only few minutes today.
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
