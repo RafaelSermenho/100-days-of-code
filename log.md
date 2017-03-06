@@ -319,3 +319,13 @@
 **What's next:** Create an image grid.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 33: March 05, 2017 
+
+**Today's Progress**: Fix upgrade issue that was causing photo not to be shown.
+
+**Thoughts:** Not feeling ok today. I have a fever so I completed only few minutes today.
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
