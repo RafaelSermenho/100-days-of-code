@@ -329,3 +329,14 @@
 **What's next:** Create an image grid.
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 34: March 06, 2017 
+
+**Today's Progress**: Changed the flow to use GLide's callback to handle downloaded photo and changed the parameter to URL instead og HDURL
+
+**Thoughts:** Nasa, come one! Today's image had 60Mb on HD resolution! My app was not ready for this :)
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
