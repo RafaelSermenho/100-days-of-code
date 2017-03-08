@@ -340,3 +340,13 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 35: March 07, 2017 
+
+**Today's Progress**: Created async task to handle image download. It's on branch test.
+
+**Thoughts:** Not feeling ok again. I have a fever so I completed only few minutes today. 
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
