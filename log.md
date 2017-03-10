@@ -350,3 +350,13 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 36: March 09, 2017 
+
+**Today's Progress**: Finished asyncTask implementation. Now waiting for the next test to publish this update.
+
+**Thoughts:** I stayed less time than I should. Thanks good, I'm feeling better now, so I'll be able to get back on track soon.
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
