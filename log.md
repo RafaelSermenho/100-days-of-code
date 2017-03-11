@@ -360,3 +360,13 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 37: March 10, 2017 
+
+**Today's Progress**: Implement code to show a message when there's no connection
+
+**Thoughts:** The app is not running ok on Android 7. I still don't know why.
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
