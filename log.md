@@ -370,3 +370,14 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 38: March 11, 2017 
+
+**Today's Progress**: Implemented "pull to refresh" and made some adjustments on asyncTask
+
+**Thoughts:** Today I made a nice progress. I decided to publish the app only after the gallery. So let's wait a bit more.
+
+**What's next:** Create an image grid.
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+
