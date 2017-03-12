@@ -380,4 +380,13 @@
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
 
+### Day 39: March 12, 2017 
+
+**Today's Progress**: Started working on a bot for telegram to send a daily picture
+
+**Thoughts:** The botr part was easy, but I'm suffering with nodejs.
+
+**What's next:** Finish bot and go back to galaktikos
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
