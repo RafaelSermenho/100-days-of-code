@@ -390,3 +390,13 @@
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
+### Day 40: March 13, 2017 
+
+**Today's Progress**: Almost finished the bot implementation. I still have problems to host it.
+
+**Thoughts:** Today I made a greate progress using nodeJs. Tks to @rafiuske
+
+**What's next:** Finish bot and go back to galaktikos
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
