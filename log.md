@@ -400,3 +400,13 @@
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
+### Day 41: March 14, 2017 
+
+**Today's Progress**: Almost finished the bot implementation.
+
+**Thoughts:** I found out I was missing Procfile.
+
+**What's next:** Finish bot and go back to galaktikos
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
