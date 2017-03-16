@@ -410,3 +410,14 @@
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
+### Day 42: March 15, 2017 
+
+**Today's Progress**: Still working on telegram bot.
+
+**Thoughts:** I'm facing a problem with webhook and polling. Still don't know what to do.
+
+**What's next:** Finish bot and go back to galaktikos
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
+
