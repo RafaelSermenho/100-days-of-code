@@ -430,3 +430,14 @@
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
+### Day 44: March 17, 2017 
+
+**Today's Progress**: Finally finished the first stable version of the bot.
+
+**Thoughts:** Next step is firebase integration
+
+**What's next:** Finish bot and go back to galaktikos
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
+
