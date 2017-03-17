@@ -420,4 +420,13 @@
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
+### Day 43: March 16, 2017 
+
+**Today's Progress**: Still working on telegram bot.
+
+**Thoughts:** Found the problem on webhook/polling. Now the problem is on heroku. I think it's the post methos
+
+**What's next:** Finish bot and go back to galaktikos
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
