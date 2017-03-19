@@ -440,4 +440,12 @@
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
+### Day 45: March 18, 2017 
 
+**Today's Progress**: Starting firebase integration
+
+**Thoughts:** Include code to schedule messages
+
+**What's next:** Finish bot and go back to galaktikos
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
