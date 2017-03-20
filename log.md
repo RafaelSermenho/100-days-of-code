@@ -449,3 +449,13 @@
 **What's next:** Finish bot and go back to galaktikos
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
+### Day 46: March 19, 2017 
+
+**Today's Progress**: Finished telegram bot. @galaktikos is online!
+
+**Thoughts:** It was a very good exercise!
+
+**What's next:** Go back to android app
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
