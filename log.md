@@ -459,3 +459,13 @@
 **What's next:** Go back to android app
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
+### Day 47: March 20, 2017 
+
+**Today's Progress**: Adjusted recurrence settings on bot
+
+**Thoughts:** It was a very good exercise!
+
+**What's next:** Go back to android app
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
