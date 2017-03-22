@@ -469,3 +469,13 @@
 **What's next:** Go back to android app
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
+### Day 48: March 21, 2017 
+
+**Today's Progress**: Created a new bot to show currency conversion using [fixer.io](http://fixer.io/)
+
+**Thoughts:** Very easy and nice. I still have some improvements to do
+
+**What's next:** Improve the bot feedback.
+
+**Link to work:** [Conversor de Moedas](https://github.com/RafaelSermenho/conversordemoedas)
