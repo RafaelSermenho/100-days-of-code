@@ -479,3 +479,13 @@
 **What's next:** Improve the bot feedback.
 
 **Link to work:** [Conversor de Moedas](https://github.com/RafaelSermenho/conversordemoedas)
+
+### Day 49: March 22, 2017 
+
+**Today's Progress**: Worked on code to keep server awake for galaktikos_bot and conversorDeMoedas_bot
+
+**Thoughts:** No problema at all today. I'm felling really good using nodeJs.
+
+**What's next:** Create a new bot (water reminder)
+
+**Link to work:** [Conversor de Moedas](https://github.com/RafaelSermenho/conversordemoedas)
