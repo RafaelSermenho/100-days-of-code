@@ -489,3 +489,13 @@
 **What's next:** Create a new bot (water reminder)
 
 **Link to work:** [Conversor de Moedas](https://github.com/RafaelSermenho/conversordemoedas)
+
+### Day 50: March 23, 2017 
+
+**Today's Progress**: Half way to go! \o/
+
+**Thoughts:** No ideas today.
+
+**What's next:** Create a new bot (water reminder)
+
+**Link to work:** [Conversor de Moedas](https://github.com/RafaelSermenho/conversordemoedas)
