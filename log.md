@@ -509,3 +509,13 @@
 **What's next:** Finish bot and return to android app.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 52: March 25, 2017 
+
+**Today's Progress**: Still working on the bot.
+
+**Thoughts:** I had a hard time trying to work with firebase structure. The current state is not good.
+
+**What's next:** Finish bot and return to android app.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
