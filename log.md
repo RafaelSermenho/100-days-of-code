@@ -499,3 +499,13 @@
 **What's next:** Create a new bot (water reminder)
 
 **Link to work:** [Conversor de Moedas](https://github.com/RafaelSermenho/conversordemoedas)
+
+### Day 51: March 24, 2017 
+
+**Today's Progress**: Another bot! Now I'm working on a remider to drink water
+
+**Thoughts:** I'm addicted to telegram bots.
+
+**What's next:** Finish bot and return to android app.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
