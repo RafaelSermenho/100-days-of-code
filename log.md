@@ -519,3 +519,14 @@
 **What's next:** Finish bot and return to android app.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 53: March 26, 2017 
+
+**Today's Progress**: Still working on the bot.
+
+**Thoughts:** Stop using the scheduler and using setInterval...stll have to do some improvements on data structure.
+
+**What's next:** Finish bot and return to android app.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
