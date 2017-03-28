@@ -530,3 +530,13 @@
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
 
+### Day 54: March 27, 2017 
+
+**Today's Progress**: Worked on bot setInterval functions.
+
+**Thoughts:** The interval function is not working...I got a timeout error and don't know why.
+
+**What's next:** Finish bot and return to android app.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
