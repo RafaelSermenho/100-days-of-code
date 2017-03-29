@@ -540,3 +540,14 @@
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
 
+### Day 55: March 28, 2017 
+
+**Today's Progress**: Added some emoji to bot buttons.
+
+**Thoughts:** The interval is working fine. 
+
+**What's next:** I still have to create a method to update the registry.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+
