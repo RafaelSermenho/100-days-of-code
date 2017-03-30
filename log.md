@@ -550,4 +550,12 @@
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
 
+### Day 56: March 29, 2017 
 
+**Today's Progress**: Adjusted some keyboard configurations.
+
+**Thoughts:** Could not hide the keyboard after the last option is setted. I have to study more.
+
+**What's next:** I still have to create a method to update the registry.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
