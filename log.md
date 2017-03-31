@@ -559,3 +559,13 @@
 **What's next:** I still have to create a method to update the registry.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 57: March 30, 2017 
+
+**Today's Progress**: Adjusted again some keyboard configurations.
+
+**Thoughts:** I found out how to hide the keyboard. There are a lot of examples in python and go, but there's a lack of examples using NodeJs.
+
+**What's next:** I still have to create a method to update the registry.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
