@@ -579,3 +579,13 @@
 **What's next:** I still have to create a method to update the registry.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 59: April 01, 2017 
+
+**Today's Progress**: Still trying to work on method to delete data
+
+**Thoughts:** I have to study more this part. I still don't know how to retrieve the key from firebase.
+
+**What's next:** I still have to create a method to update the registry.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
