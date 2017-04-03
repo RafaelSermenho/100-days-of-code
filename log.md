@@ -589,3 +589,13 @@
 **What's next:** I still have to create a method to update the registry.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 60: April 02, 2017 
+
+**Today's Progress**: I found a way to retrieve the key from firebase. And the delete method is working.
+
+**Thoughts:** After almost 3 days I found a way to retrieve the key from fb. It was a great advance.
+
+**What's next:** I have to integrate the delete method on the app.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
