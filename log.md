@@ -599,3 +599,13 @@
 **What's next:** I have to integrate the delete method on the app.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 61: April 03, 2017 
+
+**Today's Progress**: Worked a little bit on deletion method. It's not working and I don't know why...
+
+**Thoughts:** I think the delete method is racing with the insert method...
+
+**What's next:** I have to integrate the delete method on the app.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
