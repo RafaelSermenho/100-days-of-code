@@ -609,3 +609,13 @@
 **What's next:** I have to integrate the delete method on the app.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 62: April 04, 2017 
+
+**Today's Progress**: Changed the moment I was calling the delete method. Now it's ok.
+
+**Thoughts:** Tomorrow I will test the bot and publish it on heroku.
+
+**What's next:** Go back to Galaktikos app on android.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
