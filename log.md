@@ -619,3 +619,13 @@
 **What's next:** Go back to Galaktikos app on android.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 63: April 05, 2017 
+
+**Today's Progress**: Did some tests, remove some unused code and tried to upload it on heroku, but it was failling.
+
+**Thoughts:** There's something wrong with my internet or with heroku.
+
+**What's next:** Go back to Galaktikos app on android.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
