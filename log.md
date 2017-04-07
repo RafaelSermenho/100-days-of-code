@@ -629,3 +629,13 @@
 **What's next:** Go back to Galaktikos app on android.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 64: April 06, 2017 
+
+**Today's Progress**: @bebeagua_bot is online now.
+
+**Thoughts:** I forgot to commit some files that were on .gitignore.
+
+**What's next:** Go back to Galaktikos app on android.
+
+**Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
