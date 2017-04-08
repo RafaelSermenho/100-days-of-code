@@ -639,3 +639,14 @@
 **What's next:** Go back to Galaktikos app on android.
 
 **Link to work:** [BebeAgua_bot](https://github.com/RafaelSermenho/bebeagua_bot)
+
+### Day 65: April 07, 2017 
+
+**Today's Progress**: Started initial version of a twitter bot 
+
+**Thoughts:** No problem until now. I'm able to post a simples "Hello, world!"
+
+**What's next:** Finish twitter bot implementation
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
