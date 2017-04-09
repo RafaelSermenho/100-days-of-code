@@ -650,3 +650,13 @@
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
 
+### Day 66: April 08, 2017 
+
+**Today's Progress**: Included code to get data from external API (tks to [flavio] (https://github.com/flaviojmendes)
+
+**Thoughts:** No problem until now, but I think I'll have to use firebase to save the last tweet so I can avoid send it multiple times.
+
+**What's next:** Finish twitter bot implementation
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
