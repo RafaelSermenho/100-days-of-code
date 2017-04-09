@@ -660,3 +660,13 @@
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
 
+### Day 67: April 09, 2017 
+
+**Today's Progress**: Twitter bot @nivelBarragemDF is published. Tomorrow will be the first test.
+
+**Thoughts:** I always have problems to create an app on heroku.
+
+**What's next:** Create a twitter bot for galaktikos
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
