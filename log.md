@@ -670,3 +670,12 @@
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
 
+### Day 68: April 10, 2017 
+
+**Today's Progress**: I had to change the schedulling parameter for @NivelBarragemDf. Started creation of @Galaktikos_bot_twitter
+
+**Thoughts:** I have to study how to download a picture and send it on twitter
+
+**What's next:** Create code to download picture and send it
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
