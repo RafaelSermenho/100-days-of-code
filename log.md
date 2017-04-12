@@ -679,3 +679,13 @@
 **What's next:** Create code to download picture and send it
 
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
+
+### Day 69: April 11, 2017 
+
+**Today's Progress**: Unfortunally, the external api is out of service due to a change in adasa's website. Now I'm working on a crawler.
+
+**Thoughts:** Bad news...
+
+**What's next:** Finish the crawler...
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
