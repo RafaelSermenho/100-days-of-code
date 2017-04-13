@@ -689,3 +689,14 @@
 **What's next:** Finish the crawler...
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
+### Day 70: April 12, 2017 
+
+**Today's Progress**: Fixed the twitter bot after the API was updated. Also forked the api project to include a new method.
+
+**Thoughts:** It was very good to get some support from my friends after a bay night of coding,,,
+
+**What's next:** Create a new method on aguabsb api.
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
