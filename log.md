@@ -694,9 +694,19 @@
 
 **Today's Progress**: Fixed the twitter bot after the API was updated. Also forked the api project to include a new method.
 
-**Thoughts:** It was very good to get some support from my friends after a bay night of coding,,,
+**Thoughts:** It was very good to get some support from my friends after a bay night of coding
 
 **What's next:** Create a new method on aguabsb api.
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
+### Day 71: April 13, 2017 
+
+**Today's Progress**: Included code to download the picture of the day from nasa.
+
+**Thoughts:** Not much work today, cause my parents are here :)
+
+**What's next:** Finish the galaktikos bot to twitter.
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
 
