@@ -710,3 +710,13 @@
 
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
 
+### Day 72: April 14, 2017 
+
+**Today's Progress**: INcluded code to upload image to twitter, but little progress
+
+**Thoughts:** Not much work today, cause my parents are here :)
+
+**What's next:** Finish the galaktikos bot to twitter.
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
+
