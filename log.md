@@ -720,3 +720,14 @@
 
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
 
+### Day 73: April 15, 2017 
+
+**Today's Progress**: Updated code to upload image and implemented code to psot image.
+
+**Thoughts:** I found out that the upload problem was the encoding. :-)
+
+**What's next:** Finish the galaktikos bot to twitter.
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
+
+
