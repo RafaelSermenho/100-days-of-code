@@ -730,4 +730,13 @@
 
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
 
+### Day 74: April 16, 2017 
+
+**Today's Progress**: Moved android app from beta to production and worked on twitter bot.
+
+**Thoughts:** Tomorrow will be a great day. Preparing for my last days on the challenge.
+
+**What's next:** Publish galaktikos bot on twitter
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
 
