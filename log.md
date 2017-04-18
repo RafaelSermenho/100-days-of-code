@@ -740,3 +740,13 @@
 
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
 
+### Day 75: April 17, 2017 
+
+**Today's Progress**: Android app description updated and bot published
+
+**Thoughts:** Tired!
+
+**What's next:** Go back to android? Who knows! :-)
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
+
