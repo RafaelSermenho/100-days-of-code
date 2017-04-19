@@ -750,3 +750,15 @@
 
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
 
+### Day 76: April 18, 2017 
+
+**Today's Progress**: Fixed a small bug on android project and published a new version. The same for Galaktikos twitter bot.
+
+**Thoughts:** It's a problem to code whem I'm very tired. I always do some shit.
+
+**What's next:** Go back to android? Who knows! :-)
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
+                  [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+                  
+
