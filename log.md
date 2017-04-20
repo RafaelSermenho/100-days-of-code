@@ -761,4 +761,15 @@
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
                   [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
                   
+### Day 77: April 19, 2017 
+
+**Today's Progress**: Implemented a crawler on @NivelBarragemDF twitter bot.
+
+**Thoughts:** After a lot of years, I'm back to jquery selector.
+
+**What's next:** Adjust the code to use my crawler.
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+                  
+
 
