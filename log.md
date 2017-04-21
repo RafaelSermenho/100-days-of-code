@@ -771,5 +771,12 @@
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
                   
+### Day 78: April 20, 2017 
 
+**Today's Progress**: Did some adjusts on crawler and on the tweet message,
 
+**Thoughts:** Piece of cake ;)
+
+**What's next:** Go back to android app.
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
