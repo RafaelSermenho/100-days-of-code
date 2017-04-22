@@ -780,3 +780,13 @@
 **What's next:** Go back to android app.
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
+### Day 79: April 21, 2017 
+
+**Today's Progress**: Working on a new twitter bot to automatically retweet messages from my other bots.
+
+**Thoughts:** Still trying to use streaming api.
+
+**What's next:** Go back to android app.
+
+**Link to work:** [My_Profile_Retweet](https://github.com/RafaelSermenho/my_profiles_retweet)
