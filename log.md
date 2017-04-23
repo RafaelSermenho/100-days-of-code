@@ -790,3 +790,13 @@
 **What's next:** Go back to android app.
 
 **Link to work:** [My_Profile_Retweet](https://github.com/RafaelSermenho/my_profiles_retweet)
+
+### Day 80: April 22, 2017 
+
+**Today's Progress**: Still working on a twitter bot using streaming api.
+
+**Thoughts:** The last days are the most difficult.
+
+**What's next:** Go back to android app.
+
+**Link to work:** [My_Profile_Retweet](https://github.com/RafaelSermenho/my_profiles_retweet)
