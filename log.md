@@ -810,3 +810,13 @@
 **What's next:** Go back to android app.
 
 **Link to work:** [My_Profile_Retweet](https://github.com/RafaelSermenho/my_profiles_retweet)
+
+### Day 82: April 24, 2017 
+
+**Today's Progress**: Updated refresh interval and cleaned the code.
+
+**Thoughts:** Bot is finished and now I have to find a server
+
+**What's next:** Go back to android app.
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
