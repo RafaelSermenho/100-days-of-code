@@ -820,3 +820,13 @@
 **What's next:** Go back to android app.
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
+### Day 83: April 23, 2017 
+
+**Today's Progress**: Started implementation of media gallery.
+
+**Thoughts:** I was studying some recycler view implementations before hands on.
+
+**What's next:** Finish gallery implementation
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
