@@ -821,7 +821,7 @@
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
 
-### Day 83: April 23, 2017 
+### Day 83: April 25, 2017 
 
 **Today's Progress**: Started implementation of media gallery.
 
