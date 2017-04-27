@@ -830,3 +830,13 @@
 **What's next:** Finish gallery implementation
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 84: April 26, 2017 
+
+**Today's Progress**: Continued working on media gallery
+
+**Thoughts:** Recycler view is nice! :-)
+
+**What's next:** Finish gallery implementation
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
