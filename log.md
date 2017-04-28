@@ -840,3 +840,14 @@
 **What's next:** Finish gallery implementation
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 85: April 27, 2017 
+
+**Today's Progress**: Continued working on media gallery
+
+**Thoughts:** I had some problems adjusting the layout
+
+**What's next:** Finish gallery implementation
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
