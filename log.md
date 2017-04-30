@@ -860,3 +860,13 @@
 **What's next:** Finish gallery implementation
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 87: April 29, 2017 
+
+**Today's Progress**: Working on application style.
+
+**Thoughts:** The toolbar layout is broken;
+
+**What's next:** Finish gallery implementation
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
