@@ -880,3 +880,13 @@
 **What's next:** Finish gallery implementation
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 89: May 01, 2017 
+
+**Today's Progress**: Trying to search a free server to host my bots.
+
+**Thoughts:** I could not find one.
+
+**What's next:** Finish gallery implementation
+
+**Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
