@@ -890,3 +890,13 @@
 **What's next:** Finish gallery implementation
 
 **Link to work:** [Nasa - Picture Of The Day](https://github.com/RafaelSermenho/Nasa_PictureOfTheDay)
+
+### Day 90: May 02, 2017 
+
+**Today's Progress**: Preparing migration for linode servers.
+
+**Thoughts:** I still have to find how to save environment variables
+
+**What's next:** Finish gallery implementation
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
