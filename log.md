@@ -900,3 +900,15 @@
 **What's next:** Finish gallery implementation
 
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
+
+### Day 91: May 03, 2017 
+
+**Today's Progress**: Preparing migration for linode servers.
+
+**Thoughts:** All twitter bots have been migrated
+
+**What's next:** Migrate telegram bots
+
+**Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
+                  [My_Profile_Retweet](https://github.com/RafaelSermenho/my_profiles_retweet)
+                  [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
