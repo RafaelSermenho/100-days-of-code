@@ -912,3 +912,13 @@
 **Link to work:** [Galaktikos_bot_twitter](https://github.com/RafaelSermenho/galaktikos_bot_twitter)
                   [My_Profile_Retweet](https://github.com/RafaelSermenho/my_profiles_retweet)
                   [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
+### Day 92: May 04, 2017 
+
+**Today's Progress**: Preparing migration for linode servers and create twitter bot @meInformaDF
+
+**Thoughts:** After many hours, I found out that I have to configure https on server
+
+**What's next:** Migrate telegram bots
+
+**Link to work:** [MeInformaDF](https://github.com/RafaelSermenho/meInformaDF)
