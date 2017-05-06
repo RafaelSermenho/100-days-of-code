@@ -922,3 +922,13 @@
 **What's next:** Migrate telegram bots
 
 **Link to work:** [MeInformaDF](https://github.com/RafaelSermenho/meInformaDF)
+
+### Day 93: May 05, 2017 
+
+**Today's Progress**: Preparing migration for linode servers
+
+**Thoughts:** Not much work today
+
+**What's next:** Migrate telegram bots
+
+**Link to work:** [MeInformaDF](https://github.com/RafaelSermenho/meInformaDF)
