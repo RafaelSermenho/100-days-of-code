@@ -932,3 +932,14 @@
 **What's next:** Migrate telegram bots
 
 **Link to work:** [MeInformaDF](https://github.com/RafaelSermenho/meInformaDF)
+
+### Day 94: May 06, 2017 
+
+**Today's Progress**: Reactivated galaktikos_bot on heroku
+
+**Thoughts:** I was spending too much time on linode. I decided to kept @galaktikos_bot on heroku and use linode for twitter bots.
+
+**What's next:** Go back to media gallery on android
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
