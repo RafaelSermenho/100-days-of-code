@@ -943,3 +943,12 @@
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
 
+### Day 95: May 07, 2017 
+
+**Today's Progress**: Revert last commit on @nivelBarragemDF due to some changes in source site and made some investigation in galaktikos_bot
+
+**Thoughts:** Adasa is always changing the site and galaktikos_bot failed due to image problems. Nothing to do in this case.
+
+**What's next:** Go back to media gallery on android
+
+**Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
