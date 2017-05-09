@@ -952,3 +952,13 @@
 **What's next:** Go back to media gallery on android
 
 **Link to work:** [Galaktikos_bot](https://github.com/RafaelSermenho/galaktikos_bot)
+
+### Day 96: May 08, 2017 
+
+**Today's Progress**: Improving tweet from @nivelBarragemDF_bot.
+
+**Thoughts:** Adasa, please don't change.
+
+**What's next:** Go back to media gallery on android
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
