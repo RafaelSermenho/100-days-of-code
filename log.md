@@ -962,3 +962,14 @@
 **What's next:** Go back to media gallery on android
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
+### Day 97: May 09, 2017 
+
+**Today's Progress**: Started implementation to get historical data and create a line chart.
+
+**Thoughts:** I should finish this until friday :-)
+
+**What's next:** Find a way to retrieve tables
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
