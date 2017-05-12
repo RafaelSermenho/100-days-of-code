@@ -983,3 +983,12 @@
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
 
+### Day 99: May 11, 2017 
+
+**Today's Progress**: Continue implementation to get historical data and create a line chart.
+
+**Thoughts:** Very hard to retrieve data :-(
+
+**What's next:** Find a way to retrieve tables
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
