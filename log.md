@@ -992,3 +992,13 @@
 **What's next:** Find a way to retrieve tables
 
 **Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
+
+### Day 100: May 12, 2017 
+
+**Today's Progress**: Finished implementation to create and tweet chart.
+
+**Thoughts:** Adasa is always messing their site...I had to comment a code block to make my tests....
+
+**What's next:** Rest for a few days and enjoy ;)
+
+**Link to work:** [NivelBarragemDF_bot](https://github.com/RafaelSermenho/nivelBarragemDF_bot)
